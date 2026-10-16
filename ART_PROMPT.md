@@ -1,0 +1,7 @@
+# 背景素材生成
+
+使用内置 image_gen 生成出租屋夜景概念图。
+
+```text
+Use case: stylized-concept. Asset: seamless single-scene background for a fullscreen 2D side-view chibi anime dodge game, landscape 16:9. Interior of an extremely modest, slightly neglected Japanese rental apartment at rainy night, inspired by a melancholic anime domestic scene, not a luxurious home. NO people, NO characters, NO text. Camera straight front-on with very shallow perspective so game characters can stand on a horizontal floor baseline. Entire lower 25 percent is clear worn wooden floor, unobstructed side-to-side arena. Left rear has a dark open doorway and a couple modest stacked cardboard boxes, small low shelf. Center back has dull beige peeling wall and a small low table placed flush against wall, a few modest crumpled papers in distant background only. Rear right has a rain-streaked sliding window with blue night glow and thin old curtain. One warm dim bare ceiling lamp above center, simple visible electrical wire. Muted dusty plum, desaturated brown, warm amber light balanced with cool slate blue window light. Hand-painted 2D anime game environment with clean restrained linework, soft cel shading, atmospheric subdued colors, readable broad forms rather than noisy detailed texture. Quiet cramped worn home, no horror, no blood, no weapons, no floating objects. Floor is lit enough to read silhouettes. No HUD, no labels, no logos, no vignetting over the arena floor. One coherent finished game background, not a collage.
+```
